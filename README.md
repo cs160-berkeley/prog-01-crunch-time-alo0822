@@ -20,5 +20,8 @@ See [PROG 01: Crunch Time] (https://youtu.be/-lNnLnImYfE)
 
 <img src="screenshots/Landscape.png" width="400" alt="Landscape"/>
 
+## Acknowledgements
+
+Icons: [Google Material Icons] (https://design.google.com/icons/)
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
